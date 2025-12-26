@@ -75,6 +75,133 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ---
 
+## Scrum Master
+
+### Role Summary
+Coordinates Agile ceremonies, removes team blockers, and ensures the team's Agile practices are followed. Collaborates closely with the Project Manager and Developers to facilitate sprints and retrospectives.
+
+### Responsibilities
+- Facilitate standups, sprint planning, and retrospectives.
+- Coach team on Agile best practices.
+- Remove impediments that block delivery.
+- Foster continuous improvement culture.
+
+### Goals
+- Help teams deliver incrementally and adapt to change quickly.
+- Increase team productivity and predictability.
+
+### Typical Communication
+- Facilitates Agile ceremonies.
+- Works closely with Project Manager, Developers, and QA.
+
+---
+
+## UX Designer
+
+### Role Summary
+Ensures usability and accessibility of delivered features. Translates requirements into user flows, wireframes, and prototypes, and collaborates on user validation.
+
+### Responsibilities
+- Conduct user research and usability testing.
+- Deliver wireframes and design assets.
+- Advocate for accessibility and UX best practices.
+
+### Goals
+- Promote high-quality, user-centered design outcomes.
+- Validate designs with stakeholders and users.
+
+### Typical Communication
+- Partners with Product Manager for requirements.
+- Works with Developers for implementation.
+- Shares findings and prototypes with stakeholders.
+
+---
+
+## DevOps Engineer
+
+### Role Summary
+Maintains and improves CI/CD pipelines, manages infrastructure as code, and champions automation and operational excellence.
+
+### Responsibilities
+- Own deployments, infrastructure, and system reliability.
+- Implement security and monitoring tools.
+- Optimize build and release process.
+
+### Goals
+- Reliable, automated delivery pipelines.
+- Faster, more predictable releases.
+
+### Typical Communication
+- Collaborates with Developers on integration, QA and Security Lead.
+- Communicates incidents and deployments with PM and team.
+
+---
+
+## Security Lead
+
+### Role Summary
+Ensures products and processes meet security standards and best practices. Advises on risk management and incident response.
+
+### Responsibilities
+- Review code and processes for security gaps.
+- Guide security incident response.
+- Ensure compliance with relevant standards.
+
+### Goals
+- Reduce security risk.
+- Cultivate a secure-by-design culture.
+
+### Typical Communication
+- Consults with Developers and DevOps.
+- Coordinates with Project Manager for risk management.
+
+---
+
+## Business Analyst
+
+### Role Summary
+Analyzes business requirements, documents processes, and ensures that solutions deliver business value.
+
+### Responsibilities
+- Gather and translate business requirements.
+- Analyze process gaps and suggest improvements.
+- Validate solutions with stakeholders.
+
+### Goals
+- Ensure solution alignment to business needs.
+- Reduce miscommunication between business and technical teams.
+
+### Typical Communication
+- Liaises with Product Manager and Project Manager.
+- Works with Developers to clarify requirements.
+
+---
+
+## Customer Support Representative
+
+### Role Summary
+Acts as the voice of the user post-release, collects feedback, and ensures issues are documented and prioritized.
+
+### Responsibilities
+- Triage user-reported issues.
+- Communicate known issues and solutions to the team.
+- Aggregate feedback to inform improvements.
+
+### Goals
+- Increase user satisfaction.
+- Identify improvement and education opportunities.
+
+### Typical Communication
+- Works with Product Manager on prioritization and communication.
+- Supports stakeholders and documentation.
+
+---
+
+## Cross-role Interaction Checklist
+
+See [`docs/cross-role-interaction-checklist.md`](cross-role-interaction-checklist.md) for standardized expectations around project handoffs, escalations, and decision rights across personas.
+---
+
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
