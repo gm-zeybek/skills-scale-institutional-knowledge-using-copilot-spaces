@@ -1,0 +1,33 @@
+# Cross-role Interaction Checklist
+
+This checklist is designed to standardize the expectations, handoffs, and communications between the various personas in OctoAcme’s project management process.
+
+## General
+
+- [ ] Each deliverable has a clearly assigned primary owner and backup.
+- [ ] Roles and responsibilities for all major milestones are documented.
+- [ ] Key handoffs (e.g., design to dev, dev to QA, release to support) are explicit and scheduled.
+- [ ] Acceptance criteria are clear, testable, and available to all involved personas.
+- [ ] Risks, blockers, and dependency information are shared in sync meetings and tracked in the project system.
+
+## Handoffs
+
+- [ ] UX specs are reviewed and signed off by Developers before implementation begins.
+- [ ] QA is involved early to define coverage and test cases.
+- [ ] DevOps is notified at least one sprint before any major deployment or integration activity.
+- [ ] Security Lead reviews architecture and critical changes before release milestones.
+- [ ] Customer Support is provided with updated documentation and change notes before every release.
+
+## Escalations & Decision Rights
+
+- [ ] Blockers are raised in daily standups, then escalated according to the documented escalation path.
+- [ ] Decisions impacting multiple teams are documented, with clear rationale and consent from affected roles.
+
+## Retrospectives & Feedback
+
+- [ ] All roles review interaction effectiveness in project/cycle retrospectives.
+- [ ] Action items for improving handoffs and communication are tracked and owned.
+
+---
+
+This checklist should be reviewed and adapted regularly as the team and processes evolve.
